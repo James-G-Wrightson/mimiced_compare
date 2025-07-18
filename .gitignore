@@ -1,3 +1,4 @@
 MIMICED/ed_join_cc.parquet
 MIMICED/chiefcomp_clustered.parquet
-
+.DS_Store
+ANALYSIS/.DS_Store
