@@ -1,0 +1,3 @@
+[submodule "MIMICED"]
+	path = MIMICED
+	url = https://github.com/James-G-Wrightson/MIMICED.git
