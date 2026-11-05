@@ -2,3 +2,14 @@ MIMICED/ed_join_cc.parquet
 MIMICED/chiefcomp_clustered.parquet
 .DS_Store
 ANALYSIS/.DS_Store
+ANALYSIS/ed_single.parquet
+.vscode/
+
+# Reviewer response working notes (not tracked)
+reviewer_questions.md
+
+# R session history
+.Rhistory
+
+# Round-2 reviewer comments (verbatim; not tracked, same as reviewer_questions.md)
+reviewer_questions_round2.md

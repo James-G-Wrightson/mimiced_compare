@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='432.00pt' viewBox='0 0 576.00 432.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<rect x='0.00' y='0.00' width='576.00' height='432.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDAuMDV8NTcwLjUyfDUuNDh8MzU0Ljgz'>
+    <rect x='40.05' y='5.48' width='530.47' height='349.35' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDAuMDV8NTcwLjUyfDUuNDh8MzU0Ljgz)'>
+<rect x='94.30' y='349.93' width='84.39' height='4.90' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #DF8F44;' />
+<rect x='335.43' y='42.91' width='84.39' height='311.92' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #DF8F44;' />
+<rect x='190.75' y='53.11' width='84.39' height='301.72' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00A1D5;' />
+<rect x='431.87' y='43.19' width='84.39' height='311.64' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00A1D5;' />
+<text x='136.50' y='345.32' text-anchor='middle' style='font-size: 12.80px; font-weight: bold; font-family: "Arial";' textLength='24.90px' lengthAdjust='spacingAndGlyphs'>1.57</text>
+<text x='377.62' y='38.31' text-anchor='middle' style='font-size: 12.80px; font-weight: bold; font-family: "Arial";' textLength='39.12px' lengthAdjust='spacingAndGlyphs'>100.00</text>
+<text x='232.95' y='48.50' text-anchor='middle' style='font-size: 12.80px; font-weight: bold; font-family: "Arial";' textLength='32.01px' lengthAdjust='spacingAndGlyphs'>96.73</text>
+<text x='474.07' y='38.59' text-anchor='middle' style='font-size: 12.80px; font-weight: bold; font-family: "Arial";' textLength='32.01px' lengthAdjust='spacingAndGlyphs'>99.91</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<polyline points='40.05,354.83 40.05,5.48 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='35.12' y='359.18' text-anchor='end' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='6.72px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='35.12' y='265.60' text-anchor='end' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='13.45px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='35.12' y='172.03' text-anchor='end' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='13.45px' lengthAdjust='spacingAndGlyphs'>60</text>
+<text x='35.12' y='78.45' text-anchor='end' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='13.45px' lengthAdjust='spacingAndGlyphs'>90</text>
+<polyline points='40.05,354.83 570.52,354.83 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='184.72' y='368.46' text-anchor='middle' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='114.93px' lengthAdjust='spacingAndGlyphs'>No triage vital signs</text>
+<text x='425.85' y='368.46' text-anchor='middle' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='145.83px' lengthAdjust='spacingAndGlyphs'>Chief complaint recorded</text>
+<text transform='translate(15.77,180.15) rotate(-90)' text-anchor='middle' style='font-size: 14.30px; font-weight: bold; font-family: "Arial";' textLength='64.37px' lengthAdjust='spacingAndGlyphs'>Visits (%)</text>
+<rect x='192.17' y='404.47' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #DF8F44;' />
+<rect x='312.48' y='404.47' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00A1D5;' />
+<text x='214.22' y='416.75' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='92.07px' lengthAdjust='spacingAndGlyphs'>Acuity recorded</text>
+<text x='334.53' y='416.75' style='font-size: 12.10px; font-weight: bold; font-family: "Arial";' textLength='90.06px' lengthAdjust='spacingAndGlyphs'>No acuity score</text>
+</g>
+</svg>
